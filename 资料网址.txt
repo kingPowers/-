@@ -1,0 +1,6 @@
+1.wnmp环境搭建配置（集成整理）：http://www.docin.com/p-1423390023.html
+2.tp常用配置信息：http://blog.csdn.net/zizhilianqiu/article/details/7169951或者
+http://www.cnblogs.com/hanqishihu/p/5714233.html
+3.GitHub-开源中国社区：http://www.oschina.net/
+4.redis服务器初始化：http://blog.csdn.net/qq_27623337/article/details/53260213
+5.linux下vi命令修改文件及保存：http://www.jb51.net/LINUXjishu/64682.html
